@@ -1,6 +1,8 @@
-Fundamentos Matermaticos Vision Robotica 67.61 - Brumovsky
+# Fundamentos Matermaticos Vision Robotica 67.61 - Cátedra Brumovsky
 
 :dart: Trabajos Prácticos de la materia
+
+### Programa
 
 * Formación de la imagen. Hardware de visión para máquinas.
 
